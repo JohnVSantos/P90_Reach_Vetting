@@ -12,6 +12,7 @@ There are many functionalities I still need to implement in my music player.
 4) The Home Button is there to go back to the homepage.
 
 Design:
+
 ![Alternative Text](mainpage.png)
 
 
